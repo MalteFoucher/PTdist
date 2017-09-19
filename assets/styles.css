@@ -4,11 +4,19 @@ body {
     padding-top: 5em;
 }
 * {
-    font-family: 'Raleway';
+    font-family: 'Roboto';
+}
+a {
+  color: #448aff !important;
 }
 
 .centered-content {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+.title {
+  padding: 15px 0;
+  font-weight: bold;
 }
